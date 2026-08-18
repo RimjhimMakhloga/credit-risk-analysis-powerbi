@@ -138,7 +138,11 @@ Based on the analysis:
 6. For production implementation, introduce time-based monitoring to track changes in default and risk trends.
 
 ---
+## 🚀 Live Power BI Dashboard
 
+👉 [https://app.powerbi.com/links/6zrssMsFBx?ctid=34bd8bed-2ac1-41ae-9f08-4e0a3f11706c&pbi_source=linkShare&bookmarkGuid=a6b34a78-4f0a-4bd6-a7f4-e2771bbb36c3]
+
+> The live dashboard allows you to interact with filters, navigation buttons, KPIs and visuals directly in Power BI.
 ## 📁 Project Structure
 
 ```text
