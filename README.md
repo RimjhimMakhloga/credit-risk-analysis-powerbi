@@ -155,7 +155,38 @@ credit-risk-analysis-powerbi/
 │
 └── README.md
 
-📄 Project Report
 
-A detailed project report covering the methodology, dashboard design, findings, recommendations, and technical implementation is available here:
+🧮 DAX & Data Analysis
 
+The project uses DAX measures for key analytical metrics such as:
+
+Total Loan Amount
+Average Loan Amount
+Average Interest Rate
+Default Rate
+High Risk Customers
+High Risk Loan Exposure
+Loan Income Ratio
+🎨 Dashboard Design
+
+The dashboard follows a modern banking/fintech-inspired design with:
+
+Dark blue visual theme
+KPI cards
+Interactive slicers
+Page navigation
+Risk snapshots
+Multiple visualization types
+Consistent layout and spacing
+👩‍💻 Skills Demonstrated
+
+Data Analytics | Power BI | DAX | Power Query | Data Visualization | Dashboard Design | Business Intelligence | Credit Risk Analysis
+
+📌 Author
+
+Rimjhim Makhloga
+
+Aspiring Data Analyst
+Power BI • SQL • Excel • Python
+
+⭐ If you found this project useful, feel free to explore the dashboard and report.
