@@ -102,10 +102,11 @@ Dashboard/Home-page-credit-risk-analysis.png
 
 
 ### 👥 Customer & Accounts
+Dashboard/Customer&Accounts_dashboard.png
 
 
 ### ⚠️ Risk & Finance
-
+Dashboard/Risk&Finance_dashboard.png
 
 ---
 
@@ -153,3 +154,8 @@ credit-risk-analysis-powerbi/
 │   └── Credit_Risk_Analysis_PowerBI_Report_Updated.pdf
 │
 └── README.md
+
+📄 Project Report
+
+A detailed project report covering the methodology, dashboard design, findings, recommendations, and technical implementation is available here:
+
