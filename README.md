@@ -98,7 +98,7 @@ This page focuses specifically on credit risk and financial exposure.
 ## 📸 Dashboard Preview
 
 ### 🏠 Home
-
+Dashboard/Home-page-credit-risk-analysis.png
 
 
 ### 👥 Customer & Accounts
